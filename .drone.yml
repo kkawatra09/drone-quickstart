@@ -7,7 +7,7 @@ steps:
 - name: hello
   image: busybox
   commands:
-  - echo testing
+  - echo testing pull request
 
 trigger:
   branch:
